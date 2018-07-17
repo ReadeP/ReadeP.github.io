@@ -380,3 +380,20 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+div.game-info > img {
+  float: left;
+  margin-right: 40px;
+  max-width: 50% !important;
+}
+
+.header img {
+  float: left;
+  margin: -15px 10px 5px 0;
+  width: 50px;
+}
+
+div.header h3 {
+    bottom: 5px;
+    position: relative;
+}
