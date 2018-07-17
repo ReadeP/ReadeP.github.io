@@ -394,6 +394,10 @@ div.game-info > img {
 }
 
 div.header h3 {
-    bottom: 5px;
+    bottom: 6px;
     position: relative;
+}
+
+.col-md-6.col-lg-4 {
+    margin-bottom: 20px;
 }
