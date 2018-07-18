@@ -420,6 +420,6 @@ a.portfolio-modal-dismiss.btn-close {
     position: relative;
     left: 50%;
     transform: translateX(-50%);
-    margin-top: 2rem;
+    margin-top: 0rem;
     margin-bottom: 0.5rem; 
 }
