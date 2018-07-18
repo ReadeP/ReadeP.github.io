@@ -415,3 +415,11 @@ div.header h3 {
 .col-md-6.col-lg-4 {
     margin-bottom: 20px;
 }
+
+a.portfolio-modal-dismiss {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 2rem;
+    margin-bottom: 0.5rem; 
+}
