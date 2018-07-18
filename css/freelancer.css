@@ -416,7 +416,7 @@ div.header h3 {
     margin-bottom: 20px;
 }
 
-a.portfolio-modal-dismiss {
+a.portfolio-modal-dismiss.btn-close {
     position: relative;
     left: 50%;
     transform: translateX(-50%);
