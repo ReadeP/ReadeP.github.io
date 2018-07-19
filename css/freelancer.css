@@ -28,10 +28,10 @@ hr.star-dark {
 hr.star-light:after,
 hr.star-dark:after {
   position: relative;
-  top: -.8em;
+  top: -.78em;
   display: inline-block;
   padding: 0 0.25em;
-  content: '\f005';
+  content: '\f141';
   font-family: FontAwesome;
   font-size: 2em;
 }
@@ -213,6 +213,7 @@ header.masthead h2 {
   transition: all ease 0.5s;
   opacity: 0;
   background-color: rgba(57, 169, 219, 0.9);
+  border-radius: 3%;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -423,4 +424,8 @@ a.portfolio-modal-dismiss.btn-close {
     transform: translateX(-50%);
     margin-top: 0rem;
     margin-bottom: 1rem; 
+}
+
+.img-fluid {
+    border-radius: 3%;
 }
