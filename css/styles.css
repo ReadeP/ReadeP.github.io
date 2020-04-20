@@ -181,6 +181,7 @@ a.red {
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
+    margin-top: 10px;
 }
 
 .btn-outline-reg:hover {
@@ -893,6 +894,7 @@ input[type='checkbox'] {
 
 .basic-1 h2 {
 	margin-bottom: 1.5rem;
+    margin-top: -85px;
 }
 
 .basic-1 .list-unstyled {
@@ -1571,6 +1573,10 @@ a:hover.back-to-top {
 
 .mfp-content .img-fluid {
     margin-top: 70px;
+}
+
+.appdev {
+    margin-top: 40px;
 }
 
 
