@@ -1013,7 +1013,7 @@ input[type='checkbox'] {
 /*     08. Description 2    */
 /****************************/
 .tabs {
-	padding-top: 8rem;
+	padding-top: 4rem;
 	padding-bottom: 8rem;
 	background-color: #e8eff6;
 }
